@@ -1,9 +1,8 @@
 streamlit
 matplotlib
-numpy==1.23.5
-pandas==1.5.3
+numpy
+pandas
 seaborn
 scikit-learn
 openpyxl
-pickle
-pip==22.3.1
+pip
